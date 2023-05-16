@@ -19,7 +19,7 @@ echo -e ${redColour}" |  _|   \ \/ / | __| |  __|  / _\ |  / __|   | |   | | | |
 echo -e ${redColour}" | |___   >  <  | |_  | |    | (_| | | (__    | |   | |_| | |  _ <  " ${endColour}
 echo -e ${redColour}" |_____| /_/\_\  \__| |_|     \__/_|  \___|   |_|    \___/  |_| \_\ " ${endColour}
 echo -e "\n"
-echo -e ${yellowColour} "[*] Author       ${endColour}${grayColour}: Cl4r4_22" ${endColour}
+echo -e ${yellowColour} "[*] Author       ${endColour}${grayColour}: Cl4r4-5" ${endColour}
 echo -e ${yellowColour} "[*] Version      ${endColour}${grayColour}: 1.0 (first release) " ${endColour}
 echo -e ${yellowColour} "[*] Last modify  ${endColour}${grayColour}: 2022/09/18 \n" ${endColour}
 for i in {1..90}; do echo -ne ${grayColour}"~"${endColour}; done
